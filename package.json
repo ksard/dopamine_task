@@ -1,5 +1,5 @@
 {
-  "name": "dopamine",
+  "name": "remote_server_timediff",
   "version": "1.0.0",
   "description": "calculate server time diff",
   "main": "index.js",
